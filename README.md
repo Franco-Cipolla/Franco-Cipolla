@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i am Franco. I am a 16 year old boy, learning HTML and CSS. I am currently practicing it and i want to learn JS after.
+Hi I am Franco. I am a 16 year old boy, learning HTML and CSS. I am currently practicing it and i want to learn JS after.
 
 
 # 💻 Tech Stack:
