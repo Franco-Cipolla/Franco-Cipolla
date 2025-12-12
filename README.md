@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey! 👋 Ich bin Franco Cipolla, 17 Jahre alt und aktuell mache ich mein Abitur in NRW. Neben der Schule arbeite ich als selbstständiger Webentwickler, Designer, Copywriter und unterstütze Unternehmen mit Onpage-SEO dabei, ihre Online-Präsenz zu optimieren.
 
-Mein Fokus liegt auf der Entwicklung moderner, Kunden bringender und benutzerfreundlicher Webanwendungen. Dabei setze ich hauptsächlich auf React.js in Kombination mit Tailwind CSS, um ansprechende und responsive Interfaces zu gestalten.
+Mein Fokus liegt auf der Entwicklung moderner, Kunden bringender und benutzerfreundlicher Webanwendungen. Dabei setze ich auf Wordpress Bricks Builder um verkaufspsychologische und responsive Websiten zu entwickeln.
 
 Ich liebe es, kreative Ideen mit technischem Know-how zu verbinden – sei es durch cleanes Webdesign, überzeugende Texte, oder eine SEO-optimierte Struktur, die langfristig Ergebnisse liefert.
 
